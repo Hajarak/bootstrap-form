@@ -1,0 +1,34 @@
+body{
+	text-align: justify-all;
+
+}
+
+h1{
+	text-align: center;
+	background-color: dodgerblue;
+	font-family: arial;
+}
+
+.sub{
+	border-radius: 15px;
+}
+option{
+	font-family: arial;
+	font-size: 10px;
+}
+.round{
+	border-radius: 15px;
+}
+.btn{
+	border-radius: 200px; 
+}
+
+.btn-dark {
+  background-color: black;
+  border-color: black; }
+
+.btn-dark:hover {
+
+  border-width: 3px;
+  cursor: pointer;
+}
